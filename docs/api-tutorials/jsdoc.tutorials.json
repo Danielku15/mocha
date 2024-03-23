@@ -1,5 +1,8 @@
 {
   "custom-reporter": {
     "title": "Create a Custom Reporter"
+  },
+  "json-api": {
+    "title": "Use the Mocha JSON API"
   }
 }
